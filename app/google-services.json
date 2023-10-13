@@ -1,0 +1,505 @@
+{
+  "project_info": {
+    "project_number": "37533452916",
+    "firebase_url": "https://festvid-33316.firebaseio.com",
+    "project_id": "festvid-33316",
+    "storage_bucket": "festvid-33316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:e01f739aa080f560af1f21",
+        "android_client_info": {
+          "package_name": "com.best.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:8c4e31ebf8f79af6af1f21",
+        "android_client_info": {
+          "package_name": "com.cscode.fishmeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:801f0427c08de9c3af1f21",
+        "android_client_info": {
+          "package_name": "com.cscodetech.freshfastfooddeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:810c4864ee704db7af1f21",
+        "android_client_info": {
+          "package_name": "com.cscodetech.pharmafast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-b8tkr96etchsmfn8ksvetgpf332m83qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.pharmafast",
+            "certificate_hash": "29eb0d9c60ffeb26468abe7f3a6db44ce42d2d96"
+          }
+        },
+        {
+          "client_id": "37533452916-n8qrqhn4hfcpamu04ucslth9p1544chp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.pharmafast",
+            "certificate_hash": "280b7962ee84dd0e283cb6fffe7d2d2b297d471a"
+          }
+        },
+        {
+          "client_id": "37533452916-t884lpjjf9efibg9gifjifohh5cll9j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.pharmafast",
+            "certificate_hash": "24542367c38f45c350088db4e12aed9d3b2396ca"
+          }
+        },
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:e888525b4c820b6eaf1f21",
+        "android_client_info": {
+          "package_name": "com.cscodetech.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:fda89aef08b92ae2af1f21",
+        "android_client_info": {
+          "package_name": "com.cscodetech.supermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-0od9gs3tge96aj6e098cjq0bldojanbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.supermarket",
+            "certificate_hash": "6d55813b320eb8f11c1f98a078700a0d696ac39c"
+          }
+        },
+        {
+          "client_id": "37533452916-6q18jbgvhbh7b1131lta1dt8ouhn5kg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.supermarket",
+            "certificate_hash": "74d6496eafc6adcbbed940628b3c3c666f75395a"
+          }
+        },
+        {
+          "client_id": "37533452916-735nntkevhuma1i61f3btp14m75vn3bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.supermarket",
+            "certificate_hash": "36bb86f3614090acad5f9883730bc59d787c6e0b"
+          }
+        },
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:e60ccf1bb7e3f04daf1f21",
+        "android_client_info": {
+          "package_name": "com.cscodetech.townclap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:0054fd3fafb0d9dbaf1f21",
+        "android_client_info": {
+          "package_name": "com.festvid.feelthebeats.videolyrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:8b3f1c9fc1d2bc5daf1f21",
+        "android_client_info": {
+          "package_name": "com.freshfastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-3no20hafhe4b5ov600lc9c5sehpi8skv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshfastfood",
+            "certificate_hash": "74d6496eafc6adcbbed940628b3c3c666f75395a"
+          }
+        },
+        {
+          "client_id": "37533452916-cate5taci0nkcufa6af6hgl0vv337e7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshfastfood",
+            "certificate_hash": "29eb0d9c60ffeb26468abe7f3a6db44ce42d2d96"
+          }
+        },
+        {
+          "client_id": "37533452916-u84fc1cuq7tqgp4ipu1jql4dh2mb7kbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshfastfood",
+            "certificate_hash": "1ef2a1a70e7d6979d63371ceab83a17eb7fd97f1"
+          }
+        },
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:d8b2a2722d7d31a8af1f21",
+        "android_client_info": {
+          "package_name": "com.freshstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-1oe4lh75os58j2i99c9bql3baguuavsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshstock",
+            "certificate_hash": "29eb0d9c60ffeb26468abe7f3a6db44ce42d2d96"
+          }
+        },
+        {
+          "client_id": "37533452916-lg3cqqgcecj4us02o509gjs76fvvnopu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshstock",
+            "certificate_hash": "c85d6972d9f218cb29aabb8c36e80ac95828f6b5"
+          }
+        },
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:d26e94fa0e7566f5af1f21",
+        "android_client_info": {
+          "package_name": "com.freshstock.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:02876ce5c37448b1af1f21",
+        "android_client_info": {
+          "package_name": "com.grocery.shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:d5f90b4b7b606d41af1f21",
+        "android_client_info": {
+          "package_name": "com.supermarket.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:d9032f0682265000af1f21",
+        "android_client_info": {
+          "package_name": "com.supermarket.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
